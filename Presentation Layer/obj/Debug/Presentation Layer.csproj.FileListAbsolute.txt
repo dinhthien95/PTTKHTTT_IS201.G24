@@ -1,0 +1,21 @@
+E:\github\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\github\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\github\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
+E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+E:\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
