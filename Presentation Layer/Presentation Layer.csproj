@@ -59,10 +59,46 @@
     <Compile Include="fMaincs.Designer.cs">
       <DependentUpon>fMaincs.cs</DependentUpon>
     </Compile>
+    <Compile Include="fSuaKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSuaKhoaHoc.Designer.cs">
+      <DependentUpon>fSuaKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSuaLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSuaLopHoc.Designer.cs">
+      <DependentUpon>fSuaLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThemKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThemKhoaHoc.Designer.cs">
+      <DependentUpon>fThemKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThemLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThemLopHoc.Designer.cs">
+      <DependentUpon>fThemLopHoc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="fMaincs.resx">
       <DependentUpon>fMaincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSuaKhoaHoc.resx">
+      <DependentUpon>fSuaKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSuaLopHoc.resx">
+      <DependentUpon>fSuaLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThemKhoaHoc.resx">
+      <DependentUpon>fThemKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThemLopHoc.resx">
+      <DependentUpon>fThemLopHoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

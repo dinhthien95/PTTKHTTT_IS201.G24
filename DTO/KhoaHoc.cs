@@ -10,13 +10,13 @@ namespace DTO
     {
         public string _makhoahoc{get;set;}
         public string _tenkhoahoc { get; set; }
-        public DateTime _ngaykhaigiang { get; set; }
+        public double _hocphi { get; set; }
         public KhoaHoc() { }
-        public KhoaHoc(string makhoahoc, string tenkhoahoc, DateTime ngaykhaigiang)
+        public KhoaHoc(string makhoahoc, string tenkhoahoc, double hocphi)
         {
             this._makhoahoc = makhoahoc;
             this._tenkhoahoc = tenkhoahoc;
-            this._ngaykhaigiang = ngaykhaigiang;
+            this._hocphi = hocphi;
         }
     }
 }
