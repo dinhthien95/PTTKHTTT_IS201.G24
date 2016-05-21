@@ -19,3 +19,16 @@ C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentatio
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+E:\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.pdb
+E:\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemKhoaHoc.resources
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaKhoaHoc.resources
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaLopHoc.resources
+E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemLopHoc.resources

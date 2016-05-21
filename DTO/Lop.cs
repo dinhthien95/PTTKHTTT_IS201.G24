@@ -15,11 +15,10 @@ namespace DTO
         DateTime _ngayketthuc { get; set; }
         string _maca { get; set; }
         string _mangay { get; set; }
-        double _hocphi { get; set; }
         string _magiangvien { get; set; }
         string _maphonghoc { get; set; }
         public Lop() { }
-        public Lop(string malop, string makhoahoc, string machuongtrinhhoc, DateTime ngaybatdau, DateTime ngayketthuc, string maca, string mangay, double hocphi, string magiangvien, string maphonghoc)
+        public Lop(string malop, string makhoahoc, string machuongtrinhhoc, DateTime ngaybatdau, DateTime ngayketthuc, string maca, string mangay, string magiangvien, string maphonghoc)
         {
             this._malop = malop;
             this._makhoahoc = makhoahoc;
@@ -28,7 +27,6 @@ namespace DTO
             this._ngayketthuc = ngayketthuc;
             this._maca = maca;
             this._mangay = mangay;
-            this._hocphi = hocphi;
             this._magiangvien = magiangvien;
             this._maphonghoc = maphonghoc;
         }
