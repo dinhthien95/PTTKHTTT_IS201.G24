@@ -71,6 +71,12 @@
     <Compile Include="fSuaLopHoc.Designer.cs">
       <DependentUpon>fSuaLopHoc.cs</DependentUpon>
     </Compile>
+    <Compile Include="fThemHVChinhThuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThemHVChinhThuc.Designer.cs">
+      <DependentUpon>fThemHVChinhThuc.cs</DependentUpon>
+    </Compile>
     <Compile Include="fThemKhoaHoc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fSuaLopHoc.resx">
       <DependentUpon>fSuaLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThemHVChinhThuc.resx">
+      <DependentUpon>fThemHVChinhThuc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fThemKhoaHoc.resx">
       <DependentUpon>fThemKhoaHoc.cs</DependentUpon>

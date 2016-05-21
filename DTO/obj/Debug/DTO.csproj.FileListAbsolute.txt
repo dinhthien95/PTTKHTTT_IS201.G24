@@ -8,3 +8,8 @@ C:\Users\WINUIT\Documents\GitHub\QLTTAN\DTO\bin\Debug\DTO.pdb
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\DTO\obj\Debug\DTO.dll
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\DTO\obj\Debug\DTO.pdb
+E:\github\PTTKHTTT_IS201.G24\DTO\bin\Debug\DTO.dll
+E:\github\PTTKHTTT_IS201.G24\DTO\bin\Debug\DTO.pdb
+E:\github\PTTKHTTT_IS201.G24\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\github\PTTKHTTT_IS201.G24\DTO\obj\Debug\DTO.dll
+E:\github\PTTKHTTT_IS201.G24\DTO\obj\Debug\DTO.pdb

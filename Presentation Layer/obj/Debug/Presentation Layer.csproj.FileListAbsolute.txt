@@ -32,3 +32,17 @@ E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.csproj.Gen
 E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaKhoaHoc.resources
 E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaLopHoc.resources
 E:\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemLopHoc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.pdb
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaKhoaHoc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fSuaLopHoc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemHVChinhThuc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemKhoaHoc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.fThemLopHoc.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\github\PTTKHTTT_IS201.G24\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
